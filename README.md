@@ -83,7 +83,7 @@ Below is a high-level overview of the infrastructure:
 | Component        | Screenshot        |
 |------------------|-------------------|
 | VPC Setup        | ![VPC](vpc.png) |
-| Load Balancer    | ![ALB](server.png) |
+| HTTP serving    | ![ALB](server.png) |
 | EC2 Instances    | ![EC2](ec2.png) |
 
 ---
