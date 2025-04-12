@@ -16,7 +16,7 @@ This project demonstrates how to build a production-grade Virtual Private Cloud 
 ## 🗺️ Architecture Diagram
 
 Below is a high-level overview of the infrastructure:
-| Architecture Diagram    | ![Architecture Diagram](images/arch.png) |
+| Architecture Diagram    | ![Architecture Diagram](arch.png) |
 
 
 
@@ -82,9 +82,9 @@ Below is a high-level overview of the infrastructure:
 
 | Component        | Screenshot        |
 |------------------|-------------------|
-| VPC Setup        | ![VPC](images/vpc.png) |
-| Load Balancer    | ![ALB](images/alb.png) |
-| EC2 Instances    | ![EC2](images/ec2.png) |
+| VPC Setup        | ![VPC](vpc.png) |
+| Load Balancer    | ![ALB](server.png) |
+| EC2 Instances    | ![EC2](ec2.png) |
 
 ---
 
